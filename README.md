@@ -1,7 +1,7 @@
 1. Зайти в папку
-2. Активировать виртуальное окружение
+2. Активировать виртуальное окружение  .\venv\Scripts\activate
 3. task_manager.py запустить файл Менеджера задач
-4. test_task_manager.py запустить файл для тестирования
+4. test_task_manager.py запустить файл для тестирования командой: pytest test_task_manager.py
 
 5. 
 ![json](https://github.com/user-attachments/assets/a23f26b0-2422-4797-9e0d-4d82a15ab281)
